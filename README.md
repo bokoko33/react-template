@@ -1,4 +1,4 @@
-# react-ui
+# react-template
 
 すぐ何か書いて試したいとき用
 
